@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/HBedonia">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Kiane!" alt="Hello! I&#39;m Kiane!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Kiane!" alt="Hello! I&#39;m Kiane!" />
   </a>
 </p>
 
